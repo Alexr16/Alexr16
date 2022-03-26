@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Jorge Alexander Rios</h1>
  <div align="center">
-<a href="https://github.com/Alexr16/github-profile-views-counter">
+<a href="https://github.com/Alexr16/github-profile-views-counter&style=plastic">
     <img src="https://komarev.com/ghpvc/?username=Alexr16">
 </a>
 <a href="https://github.com/Alexr16?tab=followers"><img src="https://img.shields.io/github/followers/Alexr16?label=Followers&style=social" alt="GitHub Badge"></a>
@@ -52,7 +52,7 @@
 ## &#x1f4c8; My GitHub Stats
 
  <br/>
- <div align="center">
+ <div align="center" width="280px" >
   <a href="https://github.com/Alexr16/github-readme-stats"><img alt="Jorge's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alexr16&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Alexr16/github-readme-stats"><img alt="Jorge's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexr16&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
  <br/>
