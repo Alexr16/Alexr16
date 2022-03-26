@@ -13,7 +13,7 @@
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently Studying on Microverse.
-- 🌱 I’m currently learning **Data Sciense and Algorithms**
+- 🌱 I’m currently learning **Data Science and Algorithms**
 - 📫 How to reach me **j.alex-1996@hotmail.com**
 - ⚡ Fun fact: **I play games and go to the GYM very often.**
 <br/>
