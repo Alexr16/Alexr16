@@ -23,7 +23,7 @@
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+
   <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
     <a href="https://www.java.com" target="_blank"> <img align="left" width="28px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img align="left" width="28px" src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
@@ -42,7 +42,7 @@
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
-</p>
+
  <br/>
   <br/>
 <p align="center"><br/><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexr16&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
