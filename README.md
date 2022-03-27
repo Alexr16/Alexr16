@@ -7,22 +7,30 @@
  </div>
 <br/>
 <h3 align="center">I'm a passionate Full Stack Developer and Electronic Engineer from Ecuador.</h3>
-<p align="center">I really enjoy learning languages and frameworks like React and React Native, as well as work in WordPress.</p>
- <br/>
+<p align="center">I really enjoy learning languages and frameworks like React and React Native.</p>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 
-## 🙋‍♂️ About Me
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="280" />
+
+### 🙋‍♂️ About Me
 
 - 🔭 I’m currently Studying on Microverse.
 - 🌱 I’m currently learning **Data Science and Algorithms**
 - 📫 How to reach me **j.alex-1996@hotmail.com**
 - ⚡ Fun fact: **I play games and go to the GYM very often.**
+
 <br/>
  <p align="left"> <a href="https://twitter.com/ReveloJ" target="blank"><img src="https://img.shields.io/twitter/follow/ReveloJ?logo=twitter&style=for-the-badge&&logoColor=blue" alt="ReveloJ" /></a>
  <a href="https://www.linkedin.com/in/jorge-r%C3%ADos-3b33ab22b" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  </p>
+<p align="center"><br/><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexr16&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
+ <br/>
+ 
+### 🚀 Languages and Tools
 
-## 🚀 Languages and Tools:
-
+  <p></p>
+  <br/>
+<!-- anilist_activity starts -->
 <div>
   <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
     <a href="https://www.java.com" target="_blank"> <img align="left" width="28px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
@@ -41,36 +49,40 @@
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails"/> </a> 
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" /> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" /> </a> 
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack"/> </a>
-
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img align="left" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack"/></a>
+ <br/>
+ <br/>
  <br/>
 </div>
-<p></p>
+<br/>
+
+### &#x1f4c8; My GitHub Stats
+
+  <p></p>
   <br/>
-<p align="center"><br/><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexr16&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
- <br/>
-
- 
-## &#x1f4c8; My GitHub Stats
-
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<p align="center">
+<img src="https://i.imgur.com/YCw47Dm.gif">
+ </p>
  <br/>
  <div align="center" width="280px" >
   <a href="https://github.com/Alexr16/github-readme-stats"><img alt="Jorge's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Alexr16&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Alexr16/github-readme-stats"><img alt="Jorge's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexr16&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
  <br/>
 </div>
-
 <br/>
-
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Alexr16&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+ <br/>
+ <img alt="Jorge's Graph activity" src="https://activity-graph.herokuapp.com/graph?username=Alexr16&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
  
  <br/>
+ 
+### Connect with me:
 
-## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/jorge-r%C3%ADos-3b33ab22b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ReveloJ"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-
-
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
