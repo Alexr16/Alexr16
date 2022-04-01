@@ -6,7 +6,7 @@
 <a href="https://github.com/Alexr16?tab=followers"><img src="https://img.shields.io/github/followers/Alexr16?label=Followers&style=social" alt="GitHub Badge"></a>
  </div>
 <br/>
-<h3 align="center">I'm a passionate Full Stack Developer and Electronic Engineer from Ecuador.</h3>
+<h3 align="center">I'm a passionate Full-stack developer and Electronic Engineer from Ecuador.</h3>
 <p align="center">I really enjoy learning languages and frameworks like React and React Native.</p>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000"> 
 
