@@ -49,7 +49,7 @@
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails"/> </a> 
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" /> </a>
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" /> </a> 
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img align="left" width="80px" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack"/></a>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img align="left" width="28px" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack"/></a>
  <br/>
  <br/>
  <br/>
