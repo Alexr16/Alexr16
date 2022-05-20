@@ -21,7 +21,7 @@
 
 <br/>
  <p align="left"> <a href="https://twitter.com/ReveloJ" target="blank"><img src="https://img.shields.io/twitter/follow/ReveloJ?logo=twitter&style=for-the-badge&&logoColor=blue" alt="ReveloJ" /></a>
- <a href="https://www.linkedin.com/in/jorge-r%C3%ADos-3b33ab22b" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+ <a href="https://www.linkedin.com/in/jorgeriosr/" target="blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  </p>
 <p align="center"><br/><br/><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexr16&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></p>
  <br/>
@@ -80,7 +80,7 @@
 
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/jorge-r%C3%ADos-3b33ab22b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/jorgeriosr/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ReveloJ"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 </p>
 <p align="center">
